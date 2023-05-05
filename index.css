@@ -153,7 +153,8 @@
     /* height:200px; */
     margin-top:10px;
     text-align: center;
-    border:gray solid 1px;
+    padding:10px;
+    border:rgb(182, 181, 181) solid 1px;
   }
   .laptopsIN{
     width:80%;
@@ -186,7 +187,7 @@
     margin: auto;
     margin-top:40px;
     padding:10px;
-    border:gray solid 1px;
+    border:rgb(185, 183, 183) solid 1px;
   }
   .flex div{
     width:45%;
@@ -205,4 +206,181 @@
     text-align: center;
     font-size:20px;
     /* border:red solid 1px; */
+  }
+  .new{
+    margin-top:25px;
+    margin-left:25px;
+  }
+  hr{
+    margin-left:22px;
+    margin-right:22px;
+  }
+  .Arrials{
+    display:flex;
+    width:97%;
+    height:300px;
+    margin: auto;
+    margin-top:50px;
+    /* border:red solid 1px; */
+  }
+  .Arrials > div{
+    width:17%;
+    height:300px;
+    margin: auto;
+    padding:10px;
+    border-radius:10px;
+    border:rgb(170, 167, 167) solid 1px;
+  }
+  .IMG_div{
+    width:75%;
+    height:230px;
+    margin: auto;
+    border-radius:10px;
+    /* border:rgb(170, 167, 167) solid 1px; */
+
+  }
+  .IMG_div img{
+    width:100%;
+    height:200px;
+  }
+  .Arrials_word{
+    /* width:90%; */
+    height:40px;
+    text-align: center;
+    margin: auto;
+    margin-top:15px;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+  .Arrials_word p{
+    font-size:14px;
+    color: #003580;
+  }
+  .Arrials_word p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .macBook{
+    display: flex;
+    width:96%;
+    height:480px;
+    margin: auto;
+    margin-top:100px;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+  .macBook > div{
+    
+    width:30%;
+    height:400px;
+    margin: auto;
+    border:rgb(170, 167, 167) solid 1px;
+  }
+  .macBook1{
+    background-image:url('https://pisces.bbystatic.com/image2/BestBuy_US/dam/ghp-MMT-659787-macbook-f3e75956-d989-49c7-96b5-45eb5d4e73f5.jpg;maxHeight=960;maxWidth=960');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    /* border-radius:10px; */
+  }
+  .macBook2{
+    background-image:url('https://pisces.bbystatic.com/image2/BestBuy_US/dam/ghp-MMT-680552-tv-455fa80f-f5c6-42c2-9cab-a22699764493.jpg;maxHeight=960;maxWidth=960');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+  }
+  .macBook3{
+    background-image:url('https://pisces.bbystatic.com/image2/BestBuy_US/dam/MMT-510776_TopDealsGHP-LV-82d476b2-8238-447e-a5ba-031a67f017e0.jpg;maxHeight=960;maxWidth=960');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+  }
+  .MacBook{
+    width:20%;
+    margin: auto;
+    font-size:18px;
+    margin-top:50px;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+  .MacBook1{
+    width:80%;
+    margin: auto;
+    font-size:18px;
+    /* margin-top:50px; */
+    margin-top:10px;
+    text-align: center;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+  .MacBook2{
+    width:80%;
+    margin: auto;
+    font-size:10px;
+    margin: auto;
+    margin-top:10px;
+    text-align: center;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+
+  .MacBook3{
+    width:80%;
+    margin: auto;
+    margin-top:300px;
+    text-align: center;
+    /* border:rgb(170, 167, 167) solid 1px; */
+  }
+  .MacBook3 button{
+    width:80px;
+    height:30px;
+    font-weight: 600;
+    font-size:15px;
+    background-color:white;
+    color:blue;
+    border-radius:8px;
+  }
+  .MacBook4{
+    width:80%;
+    margin: auto;
+    margin-top:60px;
+    text-align: center;
+  }
+  .Our{
+    margin-top:15px;
+    margin-left:50px;
+  }
+  .featured{
+    display: flex;
+    width:93%;
+    height:480px;
+    margin: auto;
+    margin-top:20px;
+    /* border:red solid 1px; */
+  }
+  .featured > div{
+    width:30%;
+    height:480px;
+    margin: auto;
+    padding:8px;
+    border:rgb(182, 180, 180) solid 1px;
+  }
+  .featured_IMG{
+    width:90%;
+    height:400px;
+    margin: auto;
+    
+   
+  }
+  .featured_MSG{
+    width:99%;
+    margin: auto;
+    margin-top:20px;
+    /* border:red solid 1px; */
+  }
+  .featured_MSG h3{
+    color: #003580;
+  }
+  .featured_IMG img{
+    width:100%;
+    height:350px;
+  }
+  .featured_MSG h3:hover{
+    cursor: pointer;
+    text-decoration: underline;
   }
